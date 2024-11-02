@@ -13,7 +13,7 @@
                             <CustomClick>#</CustomClick>
                         </VideoClicks>
                         <MediaFiles>
-                            <MediaFile id="3" delivery="progressive" type="video/mp4" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VAST"><![CDATA[https://files.catbox.moe/lojfqd.mp4]]></MediaFile>
+                            <MediaFile id="3" delivery="progressive" type="video/mp4" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VAST"><![CDATA[https://files.catbox.moe/ytcoxn.mp4]]></MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>
